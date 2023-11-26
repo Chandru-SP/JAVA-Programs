@@ -1,0 +1,34 @@
+*{
+    font-family: monospace;
+    text-indent: 2px;
+    text-decoration-color: white;
+    text-transform: capitalize;
+    background-image: -o-repeating-linear-gradient(black,yellow);
+    margin-left: 10px;
+    margin-right: 10px;
+    
+        
+}
+
+
+.header{
+    display: flex;
+    flex-direction: row;
+    background: red;
+    padding:5px;
+    max-height: fit-content;
+    text-align: left;
+    margin-left: 5px;
+    border-radius: 3px;
+    border-color: antiquewhite;
+    border-top: 5px;
+    letter-spacing: 2cap;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.box{
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 100vh;
+}
